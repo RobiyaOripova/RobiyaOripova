@@ -9,4 +9,4 @@
  
  📫 How to reach me robiyaoripova1997@mail.ru
 
-I am studying at the faculty of computer engineering at canakkale onsekiz mart university. I am in my final year. I like to make a website. I have worked on a few projects
+I am studying at the faculty of computer engineering at Canakkale Onsekiz Mart university. I am in my final year. I like to make a website. I have worked on a few projects

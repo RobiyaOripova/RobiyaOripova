@@ -3,9 +3,9 @@
  
  👀 I’m interested in Web development
  
- 🌱 I’m currently learning React and Typescript
+ 🌱 I’m currently learning Php and Laravel
  
- 💞️ I’m looking to collaborate on Frontend projects
+ 💞️ I’m looking to collaborate on Web projects
  
  📫 How to reach me robiyaoripova1997@mail.ru
 
